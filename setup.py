@@ -11,7 +11,7 @@ setup(
     description="A modern Python wrapper for the WooCommerce REST API with model classes and intuitive methods",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/ow008/woopy",
+    url="https://github.com/ow008/WooCommercePy",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
